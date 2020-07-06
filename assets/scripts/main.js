@@ -1,4 +1,4 @@
-const coinWithoutClass = {
+class Coin{
 
     state: 0,
 
